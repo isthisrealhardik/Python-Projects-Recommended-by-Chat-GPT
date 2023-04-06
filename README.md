@@ -8,5 +8,5 @@ and mind me,
 i have already some experience with Javascript.
 
 Beginner?
-- A Number Guessing Game
-
+- A Number Guessing Game (you can choose the range, and the computer will prompt you untill get the number right)
+- Calculator (you can choose how many numbers you'd like to operate on as well as what operation)
