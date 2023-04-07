@@ -12,3 +12,6 @@ Beginner?
 - Calculator (you can choose how many numbers you'd like to operate on as well as what operation)
 - Rolling Dice Game (a basic function that uses the random library to return a random output ranging from 1 to 6)
 - Password Generator (generates a random password with a specified length given by the user)
+
+Intermediate?
+- Todo List App (built from tkinter, can add and delete tasks)
